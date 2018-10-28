@@ -1,9 +1,0 @@
-spring:
- profile: 9004
- application:
-  name: AppSenderReciver-9002
- rabbitmq:
-  port: 5672
-  host: localhost
-server:
- port: 9004
